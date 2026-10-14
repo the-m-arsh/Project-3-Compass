@@ -3,7 +3,7 @@ name = "compass"
 version = "0.1.0"
 description = "Add your description here"
 authors = [
-    { name = "the-m-arsh", email = "m.arsh.tristate@gmail.com" }
+    { name = "the-m-arsh"}
 ]
 requires-python = ">=3.12"
 dependencies = [
